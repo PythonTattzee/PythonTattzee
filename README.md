@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PythonTattzee
+- 👀 I’m interested in finding new projects, tasks and collaborations maybe workshops.
+- 🌱 I’m currently learning Python
+- 📫 You can reach me by email: python.tattzee@gmail.com
